@@ -1,0 +1,24 @@
+{
+  "name": "com-extend",
+  "version": "1.0.0",
+  "description": "通用扩展",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["extend"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuhongliang/com-extend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuhongliang/com-extend/issues"
+  },
+  "homepage": "https://github.com/chuhongliang/com-extend#readme"
+}
