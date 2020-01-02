@@ -1,6 +1,6 @@
 {
   "name": "com-extend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "通用扩展",
   "main": "index.js",
   "directories": {
@@ -10,7 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["extend"],
+  "keywords": ["extend","Object","Array","String","Date"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chuhongliang/com-extend.git"
